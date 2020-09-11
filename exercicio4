@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int numero1, numero2, produto;
+    numero1 = 30;
+    numero2 = 27;
+    produto = numero1 * numero2;
+    printf("\n O produto dos números 30 e 27: %d \n", produto);
+    return 0;
+}
